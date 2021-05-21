@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+background-color: navy;
+color: white;
+margin: 10px ;
+}
+
+nav {
+    background-color: white ;
+    color: red ;
+}
+ 
+a {
+   border: 10px ;
+   color: white ;
+ }
+
+h1 {
+    text-align: center ;
+    background-color: green ;
+    color: white ;
+    margin: 30px ;
+    font-size: 30px ;
+    text-decoration: none ;
+    border: 3px solid navy ;
+    border-radius: 10px ;
+}
+ 
+ footer p {
+    background-color: white ;
+    color: black ;
+    margin: 30px ;
+    font-size: 30px ;
+    text-decoration: none ;
+    border: 3px solid navy ;
+    border-radius: 10px ;
+
+ }
+
+nav a {
+    margin: 30px ;
+    font-size: 20px ;
+    text-decoration: none ;
+    color: black ;
+    border: 3px solid black ;
+    border-radius: 10px ;
+    background-color: white ;
+    }
+
+  .ssst {
+    margin: 5px ;
+    font-size: 5px ;
+    text-decoration: none ;
+    color: black ;
+    border: 3px solid black ;
+    border-radius: 3px ;
+    background-color: green ;
+}
+h2 {
+    color:blue;
+}
